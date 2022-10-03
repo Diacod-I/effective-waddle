@@ -1,1 +1,3 @@
 # effective-waddle
+A number classification model to detect numbers from images...
+This is a simple sequential model..
